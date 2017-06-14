@@ -7,7 +7,7 @@
 
 **Bold**
 
-Si quieren poner [vínculo](http://profesor.faco.cl)
+Una [referencia de MD](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Entrega final / Diseño y Nuevos Medios
 
